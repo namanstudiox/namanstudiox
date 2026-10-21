@@ -78,4 +78,3 @@
   <img src="https://www.gitskins.com/api/section/social?username=namanstudiox&theme=neon&avatar=https%3A%2F%2Fgithub.com%2Fnamanstudiox.png&v=oss-social-1&mode=dark" width="100%" alt="namanstudiox links" />
 </picture></p>
 <p align="center"><a href="https://github.com/namanstudiox">GitHub</a></p>
-<p align="center"><sub>namanstudiox · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
