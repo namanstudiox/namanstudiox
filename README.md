@@ -12,15 +12,14 @@
 
 <h2>Why I build in public</h2>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Focus</h3><p><code>TypeScript</code> · <code>JavaScript</code> · <code>CSS</code></p></td>
-<td width="33%" valign="top"><h3>Proof</h3><p>8 public repositories · shipping new ones every week</p></td>
-<td width="33%" valign="top"><h3>Contribution</h3><p>20 contributions in the last year · 6 active days</p></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnamanstudiox&query=%24.public_repos&label=public%20repos&style=for-the-badge&color=0d1117&labelColor=1f6feb" alt="Public repos" />
+  <img src="https://img.shields.io/github/followers/namanstudiox?style=for-the-badge&color=0d1117&labelColor=1f6feb" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/namanstudiox?affiliations=OWNER&style=for-the-badge&color=0d1117&labelColor=1f6feb" alt="Stars" />
+  <img src="https://img.shields.io/github/last-commit/namanstudiox/namanstudiox?style=for-the-badge&color=0d1117&labelColor=1f6feb" alt="Last commit" />
+</p>
 
-<p>Building in public, documenting the work, and making the next contribution easier.</p>
+<p align="center">Building in public, documenting the work, and making the next contribution easier.</p>
 
 <h2>Open-source toolbox</h2>
 
