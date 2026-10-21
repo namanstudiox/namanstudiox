@@ -77,4 +77,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=namanstudiox&theme=neon&avatar=https%3A%2F%2Fgithub.com%2Fnamanstudiox.png&v=oss-social-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/social?username=namanstudiox&theme=neon&avatar=https%3A%2F%2Fgithub.com%2Fnamanstudiox.png&v=oss-social-1&mode=dark" width="100%" alt="namanstudiox links" />
 </picture></p>
-<p align="center"><a href="https://github.com/namanstudiox">GitHub</a></p>
